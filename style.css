@@ -1,0 +1,67 @@
+.box {
+	width: 500px;
+}
+body{
+	background-image: url('markus-spiske-iar-afB0QQw-unsplash.jpg');
+	background-size: cover;
+	display: block;
+	background-position: center;
+}
+
+
+h1{
+	text-align: center;
+	color: blue;
+
+}
+
+hr{
+	max-width: 40px;
+/*	text-align: center;*/
+	background-color: black;
+	margin: auto;
+}
+
+form{
+	box-sizing: border-box;
+	text-align: center;
+}
+
+.register{
+	box-sizing: content-box;
+	border: 2px solid skyblue;
+	border-radius: 10px;
+	background-color: lightcyan;
+	width: auto;
+	padding: 0px 16px;
+	display: inline-block;
+}
+
+#emailHelp{
+	color: blue;
+}
+
+.fb{
+	border: 2px solid blue;
+	display: inline-block;
+
+}
+
+.id2{
+	text-align: center;
+}
+
+.id3{
+	font-family: sans-serif;
+	text-overflow: ;
+	text-align: justify;
+	margin-right: auto;
+	margin-left: auto;
+	font-size: 15px;
+	font-weight: 600;
+}
+
+p{
+	color: blue;
+	font-size: 1.5em;
+}
